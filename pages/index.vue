@@ -1,6 +1,6 @@
 <template>
-  <main>
-    Home page
+  <main class="main">
+    <ProductList />
   </main>
 </template>
 
@@ -9,5 +9,7 @@
 </script>
 
 <style scoped>
-
+.main {
+  @apply flex justify-center items-center h-screen;
+}
 </style>

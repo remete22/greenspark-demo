@@ -1,6 +1,6 @@
 # greenspark test
 
-This is a test proejct for greenspark senior frontend job.
+This is a test project for greenspark senior frontend job.
 
 ## The requirement are:
 
@@ -31,7 +31,7 @@ you to be proud of the quality of your final code.
 
 - Nuxt
 - Vue
-- Pinia
+- Pinia - I prefer Pinia to Vuex. I had to do a workaround because, the official module did not work.
 - Typescript
 - Tailwindcss
 
